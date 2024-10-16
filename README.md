@@ -14,7 +14,7 @@
 
 ## 설치
 
- 1. [라즈베리파이 imager 다운로드하고](https://www.raspberrypi.com/software/) 설치하세요
+ 1. [라즈베리파이 imager 다운로드](https://www.raspberrypi.com/software/)하고 설치하세요
  2. 분할압축된 Openauto-16GB-yymmdd-1,Openauto-16GB-yymmdd-2 파일을 모두 다운로드한 뒤, 압축을 해제하여 Openauto-16GB-yymmdd.img 파일을 만드세요.
  3. 라즈베리파이 imager를 실행시키고, MicroSD를 PC에 연결한 뒤, Erase를 선택하여 메모리를 포맷하세요.
  4. 포맷이 완료되면, Use Custom을 선택하여 Openauto-16GB-yymmdd.img 파일을 선택하세요. (SSH를 비롯한 커스텀 세팅은 사용하지 마세요.)
@@ -22,9 +22,10 @@
 
 ## 주의사항
 
- - _현재 Openauto는 안드로이드 오토 12.7 미만의 버전에서만 정상 작동합니다. 문제가 해결되기 전까지는 스마트폰에서 안드로이드 오토 업데이트를 삭제하고, 12.6 버전의 apk 파일을 다운로드하여 설치한 뒤, 플레이스토어 자동 업데이트를 비활성화하고 사용하세요._
+ - _현재 Openauto는 안드로이드 오토 12.7 미만의 버전에서만 정상 작동합니다. 문제가 해결되기 전까지는 스마트폰의 플레이스토어에서 안드로이드 오토 업데이트를 삭제하고 앱 자동 업데이트를 비활성한 뒤, [12.6 버전의 apk 파일을 다운로드](https://www.apkmirror.com/apk/google-inc/android-auto/android-auto-12-6-6432-release/android-auto-12-6-643254-release-android-apk-download/)하고 설치해 사용하세요._
 
 
 ## 커스터마이징
 
- - 기본 Crakshaft Openauto 초기 시스템에서 PI-SIGHT Openauto 시스템을 구성하고 싶은 경우, [구성 방법](https://vudev.notion.site/Openauto-1872b35c59624c85a099c0787b978a32?pvs=4)을 따라하세요.
+ - 시스템 구성 및 세부 정보는 [Crankshaft Wiki](https://github.com/opencardev/crankshaft/wiki/Getting-started-with-Crankshaft)를 확인하세요.
+ - 기본 Crakshaft Openauto 시스템으로부터 PI-SIGHT Openauto 커스터마이징을 적용하고 싶은 경우, [설정 방법](https://vudev.notion.site/Openauto-1872b35c59624c85a099c0787b978a32?pvs=4)을 참고하세요.
