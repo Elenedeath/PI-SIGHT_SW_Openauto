@@ -9,7 +9,7 @@
  - 후방 카메라는 상시 녹화되고 메모리가 가득 차면 자동으로 가장 오래된 영상을 지우는 루프 레코딩 기능을 지원하며, 후방카메라 영상을 디스플레이에 출력해 주행 중 실시간으로 뒤를 볼 수도 있습니다. 
  - 내장 마이크를 통해 구글 어시스턴스를 사용할 수 있고, 목적지 설정, 음악 재생, 전화 걸기 등 다양한 동작을 음성으로 실행할 수 있습니다.
  - 기본적으로 헬멧 안에서 스마트폰의 소리를 듣기 위해 세나 같은 블루투스 오디오 장치가 필요하지만, PI-SIGHT 외장 블루투스 오디오 모듈을 연결하면 별도의 블루투스 오디오 장치 없이 하나의 디바이스로 통합할 수 있습니다.
- - 자세한 내용은 [설명서를 다운로드](https://github.com/younsj97/PI-SIGHT_SW_Openauto/blob/main/PI-SIGHT%20%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C-3%20(%EC%98%A4%ED%94%88%EC%98%A4%ED%86%A0).pdf)하여 확인하세요
+ - 자세한 내용은 [VUDEV 홈페이지](https://sites.google.com/vudev.net/vudevnet/openauto-info) 또는 [설명서를 다운로드](https://github.com/younsj97/PI-SIGHT_SW_Openauto/blob/main/PI-SIGHT%20%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C-3%20(%EC%98%A4%ED%94%88%EC%98%A4%ED%86%A0).pdf)하여 확인하세요
 
 
 ## 설치
