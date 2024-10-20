@@ -1,6 +1,6 @@
 # PI-SIGHT SW - Openauto
 
-'PI-SIGHT Openauto'는 라즈베리 파이를 안드로이드 오토 헤드 유닛으로 사용할 수 있도록 하며, [Crankshaft](https://github.com/opencardev/crankshaft) 소프트웨어를 PI-SIGHT에 적합하게 수정하여 만들어졌습니다.
+'Openauto'는 [PI-SIGHT](https://github.com/younsj97/PI-SIGHT_Helmet_HUD)를 안드로이드 오토 헤드 유닛으로 사용할 수 있도록 하며, [Crankshaft](https://github.com/opencardev/crankshaft) 소프트웨어를 PI-SIGHT에 적합하게 수정하여 만들어졌습니다.
 
 
 ## 기능
