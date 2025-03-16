@@ -9,7 +9,7 @@
  - The rear camera supports loop recording, which continuously records and automatically deletes the oldest video when the memory is full. The rear camera video can also be output to the display, allowing you to view the rear in real time while driving.
  - You can use Google Assistant through the built-in microphone and perform various actions such as setting destinations, playing music, and making calls using your voice.
  - Basically, you need a Bluetooth audio device like Sena to listen to your smartphone inside the helmet, but if you connect the PI-SIGHT external Bluetooth audio module, you can integrate it into a single device without a separate Bluetooth audio device.
- - For more information, please visit the [VUDEV website](https://sites.google.com/vudev.net/vudevnet/openauto-info) or download the [manual](https://github.com/Elenedeath/PI-SIGHT_SW_Openauto/blob/main/PI-SIGHT%20%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C-3%20(%EC%98%A4%ED%94%88%EC%98%A4%ED%86%A0).pdf).
+ - For more information, please visit the [VUDEV website](https://sites.google.com/vudev.net/vudevnet/openauto-info) or download the [manual](https://github.com/Elenedeath/PI-SIGHT_SW_Openauto/blob/main/PI-SIGHT%20%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C-3%20(%EC%98%A4%ED%94%88%EC%98%A4%ED%86%A0).EN.pdf).
 
 
 ## installation
@@ -30,4 +30,4 @@
 ## Customizing
 
  - For system configuration and details, see the [Crankshaft Wiki](https://github.com/opencardev/crankshaft/wiki/Getting-started-with-Crankshaft).
- - If you want to apply PI-SIGHT Openauto customizations from the basic Crakshaft Openauto system, please refer to the [setup instructions](https://vudev.notion.site/Openauto-1872b35c59624c85a099c0787b978a32?pvs=4).
+ - If you want to apply PI-SIGHT Openauto customizations from the basic Crakshaft Openauto system, please refer to the [setup instructions](https://github.com/Elenedeath/PI-SIGHT_SW_Openauto/blob/main/Openauto.EN.pdf).
