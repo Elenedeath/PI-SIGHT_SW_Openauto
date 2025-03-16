@@ -1,0 +1,70 @@
+23.04.06
+Cleaned up code, changed camera resolution to 3:2 ratio, rolled back keymap interval to 0.1s
+
+23.04.07
+Apply camera left/right inversion
+
+23.04.12
+Camera settings changed to 1296*730p/25fps due to GPU performance issues, Android Auto DPI changed to 185
+
+23.04.20
+Add hotspot name/password setting code
+
+23.05.22
+2022-09-11 Release Open Auto-based rebuild, Bluetooth remote control settings (partition not applied)
+
+23.05.23
+Apply partition settings
+
+23.05.23-1
+Disable unnecessary systems, separate/separately run pairing codes, shorten boot time
+
+23.05.26
+Solved the problem of key mapping not working when changing to pynput and re-pairing
+1,2,h cannot be operated with pynput, so only pynput is used for key recognition, and keyboard is used for operation.
+Add the detect code, turn off the hotspot and wait until the remote control is connected after booting, then turn on the hotspot once connected.
+If you use rfkill in bootrun, it seems like the hotspot is completely turned off, so apply rfkill only to the detect code.
+
+23.06.05
+bootrun sleep shortcut
+Open Auto DPI changed from 180 to 160
+
+23.07.06
+Change bootrun txpower 30
+Open Auto DPI changed from 160 to 170
+
+23.07.09
+i2s dac,mic application
+
+23.09.21
+Set sound output to external
+DPI 180, change phone end key to True
+Change the pairing code to SIGHTER RC
+New version remote control key mapping applied
+Changed camera to 30 frames, changed text from year/month/date to VUDEV SIGHTER
+Problem with screen turning back on when operating the device after screen off (screen on variable remains the same, so you have to press it twice)
+
+23.10.10
+config.txt Set device temperature limit to 50 degrees, remove overheating notification (I2S microphone disconnection symptom disappeared)
+Change bootrun hotspot intensity to 10
+Changed the text at the top of the video to VUDEV PI-RIDE, and changed the screen output to 3 seconds.
+
+23.10.19
+Change device name to PI-SIGHT
+Change hotspot name, rear cam text
+
+23.10.23
+Change config.txt device temperature to 65 degrees
+Intermittently, the hotspot does not turn back on after connecting the remote control, so add 1 second of sleep in bootrun and BT_detect.
+
+23.11.01
+Change config.txt device temperature to 60 degrees
+Change video resolution to fill the screen
+
+23.12.11
+Change bootrun hotspot intensity to 10
+Change camera video length to 300 seconds
+
+23.12.12
+Delete screen off button state variable
+Changed the BT-detect code to check remote control connection first and then rkfill
