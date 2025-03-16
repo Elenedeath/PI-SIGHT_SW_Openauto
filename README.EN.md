@@ -1,6 +1,6 @@
 # PI-SIGHT SW - Openauto
 
-'Openauto' allows [PI-SIGHT](https://github.com/younsj97/PI-SIGHT_Helmet_HUD) to be used as an Android Auto head unit, and is created by modifying the [Crankshaft](https://github.com/opencardev/crankshaft) software to suit PI-SIGHT.
+'Openauto' allows [PI-SIGHT](https://github.com/Elenedeath/PI-SIGHT_Helmet_HUD) to be used as an Android Auto head unit, and is created by modifying the [Crankshaft](https://github.com/opencardev/crankshaft) software to suit PI-SIGHT.
 
 
 ## function
@@ -9,7 +9,7 @@
  - The rear camera supports loop recording, which continuously records and automatically deletes the oldest video when the memory is full. The rear camera video can also be output to the display, allowing you to view the rear in real time while driving.
  - You can use Google Assistant through the built-in microphone and perform various actions such as setting destinations, playing music, and making calls using your voice.
  - Basically, you need a Bluetooth audio device like Sena to listen to your smartphone inside the helmet, but if you connect the PI-SIGHT external Bluetooth audio module, you can integrate it into a single device without a separate Bluetooth audio device.
- - For more information, please visit the [VUDEV website](https://sites.google.com/vudev.net/vudevnet/openauto-info) or download the [manual](https://github.com/younsj97/PI-SIGHT_SW_Openauto/blob/main/PI-SIGHT%20%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C-3%20(%EC%98%A4%ED%94%88%EC%98%A4%ED%86%A0).pdf).
+ - For more information, please visit the [VUDEV website](https://sites.google.com/vudev.net/vudevnet/openauto-info) or download the [manual](https://github.com/Elenedeath/PI-SIGHT_SW_Openauto/blob/main/PI-SIGHT%20%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C-3%20(%EC%98%A4%ED%94%88%EC%98%A4%ED%86%A0).pdf).
 
 
 ## installation
